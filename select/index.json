@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "クニナマシェ",
+  "base_artist": "Ankokutairiku Jagatara",
+  "createdAt": "2026-03-02T10:45:28.184917Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クニナマシェ",
+      "artist": "Jagatara",
+      "has_synced": false,
+      "path": "select/01_クニナマシェ_Jagatara.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "クニナマシェ",
+      "artist": "Ankoku Tairiku Jagatara",
+      "has_synced": false,
+      "path": "select/02_クニナマシェ_Ankoku_Tairiku_Jagatara.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クニナマシェ",
+      "artist": "暗黒大陸じゃがたら",
+      "has_synced": false,
+      "path": "select/pl_01_クニナマシェ_暗黒大陸じゃがたら.txt"
+    }
+  ]
+}
